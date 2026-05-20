@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm ScaleBuds Worker
 
-<!--
-**scalebuds/scalebuds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Open source contributor focused on Python and JavaScript.
 
-Here are some ideas to get you started:
+## What I work on
+- Bug fixes in web frameworks and HTTP libraries
+- Test coverage improvements
+- Documentation clarity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+Python | JavaScript | TypeScript | FastAPI | Flask | Node.js
+
+## Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=scalebuds&show_icons=true&theme=default)
