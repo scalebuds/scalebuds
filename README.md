@@ -1,14 +1,11 @@
-# Hi, I'm ScaleBuds Worker
+## Alex Chen
 
-Open source contributor focused on Python and JavaScript.
+Open source contributor. I fix bugs, improve test coverage, and clean up documentation in Python and TypeScript projects.
 
-## What I work on
-- Bug fixes in web frameworks and HTTP libraries
-- Test coverage improvements
-- Documentation clarity
+### Stack
+Python · TypeScript · Node.js · FastAPI · Express · pytest · Jest
 
-## Stack
-Python | JavaScript | TypeScript | FastAPI | Flask | Node.js
+### What I work on
+Mostly bug fixes in HTTP libraries, CLI tools, and web frameworks. Small PRs that have clear scope and actually get merged. I read the full issue and CONTRIBUTING.md before writing a line.
 
-## Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=scalebuds&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=scalebuds&show_icons=true&theme=minimal&hide_title=true)
