@@ -2,4 +2,4 @@
 
 Full-stack developer. TypeScript, Python, Node.js. Open source contributor.
 
-Building in public. Last active: 2026-05-22
+Building in public. Last active: 2026-05-25
